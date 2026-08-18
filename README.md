@@ -1,8 +1,15 @@
 # RINGSPOTTER｜摔角捉迷藏
 
-一隻為 iPhone 直向畫面而設的原創街機風隱藏角色遊戲。玩家會走過四個摔角主題舞台：AEW、STARDOM、CMLL，以及新日本（NJPW），每站要在限時內找出三位指定角色。
+一隻為 iPhone 直向畫面而設的街機風摔角尋人遊戲。玩家會走過 AEW、STARDOM、CMLL 及新日本（NJPW）四個主題舞台，在限時內尋找 12 位真實摔角明星。
 
 Arcade Edition 採用黑金／霓虹舞台、CRT 掃描線、金屬計分板、硬邊摔角手造型、掃描準星及命中／失誤特效，保留單手觸控操作。
+
+## 12 位摔角手
+
+- AEW：Kenny Omega、Toni Storm、Will Ospreay
+- STARDOM：Starlight Kid、Saya Kamitani、Maika
+- CMLL：Místico、Máscara Dorada、Zeuxis
+- NJPW：Yota Tsuji、Zack Sabre Jr.、El Desperado
 
 ## 玩法
 
@@ -23,4 +30,4 @@ python3 -m http.server 4173
 
 ## 作品聲明
 
-本作為非官方、非商業示範。遊戲角色、場館圖像及介面均為原創，沒有使用官方標誌、選手照片或選手肖像；AEW、STARDOM、CMLL、NJPW 名稱只用作描述摔角主題站點，作品與各團體並無關聯。
+本作為非官方、非商業粉絲致敬作品，與任何摔角手或團體並無關聯或獲其認可。角色以原創 Canvas 插畫呈現公開人物的風格化造型及代表性服飾；沒有使用官方照片、官方標誌或贊助商商標。所有摔角手、團體及相關名稱均屬其各自權利人所有。
