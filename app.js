@@ -21,9 +21,9 @@
       colors: ["#f7c948", "#14141a", "#6b5cff"],
       gear: ["#c4952f", "#252a32", "#70439a", "#c8cbd0", "#245f70", "#8f2f38"],
       target: [
-        { name: "DYNAMO DAX", clue: "青綠外套＋金色閃電面彩", look: { skin: 2, hair: 1, hairColor: "#f2d16b", top: "#18d6ba", bottom: "#14141c", accent: "#ffd84d", accessory: "bolt", mask: 0 } },
-        { name: "VIOLET VEX", clue: "紫色斗篷＋銀色護目鏡", look: { skin: 3, hair: 4, hairColor: "#15131b", top: "#7b4dff", bottom: "#d9d9e5", accent: "#ffffff", accessory: "goggles", mask: 0 } },
-        { name: "NEON JACK", clue: "螢光背心＋紅色頭巾", look: { skin: 1, hair: 2, hairColor: "#592b1f", top: "#dfff35", bottom: "#2e2e39", accent: "#ff3f57", accessory: "headband", mask: 0 } },
+        { name: "KENNY OMEGA", clue: "長曲髮＋黑紫青長褲", look: { skin: 1, hair: 4, hairColor: "#4a2b24", top: "#171820", bottom: "#39245f", accent: "#30c8d4", accessory: "wrist", mask: 0, build: "athletic", signature: "omega" } },
+        { name: "TONI STORM", clue: "金色波浪髮＋黑銀長袍", look: { skin: 0, hair: 4, hairColor: "#ead8a5", top: "#17171b", bottom: "#272730", accent: "#d7d4cf", accessory: "cape", mask: 0, build: "power", frame: "female", signature: "toni" } },
+        { name: "WILL OSPREAY", clue: "金啡短髮＋翡翠綠戰衣", look: { skin: 0, hair: 2, hairColor: "#b48a5a", top: "#176b56", bottom: "#11181a", accent: "#d5e7df", accessory: "wrist", mask: 0, build: "striker", signature: "ospreay" } },
       ],
       crowdBias: "modern",
     },
@@ -35,9 +35,9 @@
       colors: ["#ff4fa3", "#251734", "#65d9ff"],
       gear: ["#b72b6f", "#252735", "#427b98", "#c9bdcc", "#69305d", "#d06086"],
       target: [
-        { name: "星月 RIKA", clue: "藍色雙馬尾＋金色星星眼罩", look: { skin: 1, hair: 5, hairColor: "#56d7ff", top: "#ff4fa3", bottom: "#6a4cff", accent: "#ffe45e", accessory: "star", mask: 0 } },
-        { name: "CRIMSON MIO", clue: "紅白羽毛肩飾＋白長靴", look: { skin: 0, hair: 3, hairColor: "#5a1d2a", top: "#e72e58", bottom: "#ffffff", accent: "#ffd0dc", accessory: "feathers", mask: 0 } },
-        { name: "COSMIC YUNA", clue: "銀色短髮＋紫色月亮腰帶", look: { skin: 2, hair: 2, hairColor: "#d9e2ef", top: "#29234d", bottom: "#8d63ff", accent: "#e7dcff", accessory: "moon", mask: 0 } },
+        { name: "STARLIGHT KID", clue: "紅黑虎面罩＋雙馬尾", look: { skin: 0, hair: 5, hairColor: "#17151a", top: "#a51f3c", bottom: "#181820", accent: "#e4d7c5", accessory: "none", mask: 2, build: "striker", frame: "female", signature: "slk" } },
+        { name: "SAYA KAMITANI", clue: "長黑髮＋黑紅鎖鏈戰衣", look: { skin: 0, hair: 4, hairColor: "#17151a", top: "#17171d", bottom: "#8f1d35", accent: "#c8c9ce", accessory: "wrist", mask: 0, build: "athletic", frame: "female", signature: "saya" } },
+        { name: "MAIKA", clue: "啡紅長髮＋紅金戰衣", look: { skin: 1, hair: 3, hairColor: "#6f3029", top: "#a92d38", bottom: "#521b28", accent: "#d9aa4c", accessory: "wrist", mask: 0, build: "power", frame: "female", signature: "maika" } },
       ],
       crowdBias: "joshi",
     },
@@ -49,9 +49,9 @@
       colors: ["#21d4b4", "#122334", "#ff8b32"],
       gear: ["#15867a", "#a5682d", "#293a46", "#6b2d60", "#b8a45f", "#396d53"],
       target: [
-        { name: "SOL AZTECA", clue: "金色太陽面具＋青綠披風", look: { skin: 3, hair: 0, hairColor: "#19151a", top: "#19bfa6", bottom: "#f4b73e", accent: "#ffe670", accessory: "cape", mask: 3 } },
-        { name: "JAGUAR ROJO", clue: "紅色豹紋面具＋黑金手套", look: { skin: 2, hair: 0, hairColor: "#19151a", top: "#e33a42", bottom: "#16161d", accent: "#ffc857", accessory: "gloves", mask: 2 } },
-        { name: "LUNA VERDE", clue: "綠色月牙面具＋紫色長靴", look: { skin: 1, hair: 0, hairColor: "#19151a", top: "#28c76f", bottom: "#7429b8", accent: "#e4ff61", accessory: "cape", mask: 1 } },
+        { name: "MÍSTICO", clue: "白金太陽面具＋披風", look: { skin: 2, hair: 0, hairColor: "#19151a", top: "#e9e7df", bottom: "#c39528", accent: "#f5d965", accessory: "cape", mask: 3, build: "athletic", signature: "mistico" } },
+        { name: "MÁSCARA DORADA", clue: "金白面具＋金色長褲", look: { skin: 2, hair: 0, hairColor: "#19151a", top: "#d4a72b", bottom: "#f1eee6", accent: "#55a6c8", accessory: "wrist", mask: 2, build: "striker", signature: "dorada" } },
+        { name: "ZEUXIS", clue: "黑金面具＋黑金戰衣", look: { skin: 1, hair: 5, hairColor: "#151318", top: "#151519", bottom: "#17171d", accent: "#d1a63c", accessory: "gloves", mask: 1, build: "power", frame: "female", signature: "zeuxis" } },
       ],
       crowdBias: "lucha",
     },
@@ -63,9 +63,9 @@
       colors: ["#ed3138", "#151519", "#f4e6c7"],
       gear: ["#ad282e", "#292b31", "#cec7ba", "#5e2026", "#465566", "#7d5932"],
       target: [
-        { name: "赤龍 KENJI", clue: "紅色頭巾＋白色火焰長袍", look: { skin: 1, hair: 3, hairColor: "#17151a", top: "#f2eee6", bottom: "#d52d35", accent: "#ffb33d", accessory: "headband", mask: 0 } },
-        { name: "IRON TORA", clue: "虎紋背心＋黑色護腕", look: { skin: 2, hair: 1, hairColor: "#34251d", top: "#f0a62e", bottom: "#17171d", accent: "#22180e", accessory: "wrist", mask: 0 } },
-        { name: "BLUE COMET", clue: "藍色面罩＋銀色流星披肩", look: { skin: 0, hair: 0, hairColor: "#15151a", top: "#3269db", bottom: "#ececf3", accent: "#aee7ff", accessory: "cape", mask: 1 } },
+        { name: "YOTA TSUJI", clue: "長黑髮＋紅色長大衣", look: { skin: 1, hair: 4, hairColor: "#15151a", top: "#8f2027", bottom: "#17171b", accent: "#d4b07a", accessory: "cape", mask: 0, build: "power", signature: "yota" } },
+        { name: "ZACK SABRE JR.", clue: "金啡短髮＋黑金短褲", look: { skin: 0, hair: 2, hairColor: "#9e754c", top: "#202126", bottom: "#15161a", accent: "#d39b37", accessory: "wrist", mask: 0, build: "striker", signature: "zack" } },
+        { name: "EL DESPERADO", clue: "紅黑火焰面具＋白護腕", look: { skin: 1, hair: 0, hairColor: "#15151a", top: "#9d2630", bottom: "#17171b", accent: "#ece7df", accessory: "wrist", mask: 3, build: "athletic", signature: "desperado" } },
       ],
       crowdBias: "strong",
     },
@@ -222,7 +222,10 @@
           look.hair = 2 + Math.floor(rng() * 4);
           look.top = stage.gear[Math.floor(rng() * stage.gear.length)];
         }
-        if (slot === state.targetSlot) look = { ...stage.target[state.round].look, build: "athletic" };
+        if (slot === state.targetSlot) {
+          const targetLook = stage.target[state.round].look;
+          look = { ...targetLook, build: targetLook.build || "athletic" };
+        }
         crowd.push({ slot, x, y, look, phase: rng() * Math.PI * 2, target: slot === state.targetSlot });
       }
     }
@@ -471,7 +474,8 @@
     });
 
     drawButton(buttonRects.start, "PRESS START // 開始", "#f7c948");
-    fillText("12 TARGETS     04 ZONES     01 CHAMPION", 195, 690, 9, "#6f7784", "center", 750);
+    fillText("12 REAL STARS     04 ZONES     01 TOUR", 195, 676, 9, "#6f7784", "center", 750);
+    fillText("UNOFFICIAL FAN TRIBUTE // 非官方粉絲作品", 195, 694, 8, "#555d69", "center", 700);
     drawSoundButton();
   }
 
@@ -569,12 +573,549 @@
     ctx.restore();
   }
 
+  function drawSignatureBack(look, shoulder, ink) {
+    const signature = look.signature;
+    if (!signature) return;
+    ctx.save();
+    ctx.strokeStyle = ink;
+    ctx.lineWidth = 2;
+
+    if (signature === "toni") {
+      const robe = ctx.createLinearGradient(-22, -28, 22, 20);
+      robe.addColorStop(0, "#111217");
+      robe.addColorStop(0.5, "#d0d0ce");
+      robe.addColorStop(0.62, "#292a31");
+      robe.addColorStop(1, "#0c0d10");
+      ctx.fillStyle = robe;
+      ctx.beginPath();
+      ctx.moveTo(-shoulder, -27);
+      ctx.lineTo(-23, 23);
+      ctx.lineTo(-6, 18);
+      ctx.lineTo(0, 3);
+      ctx.lineTo(6, 18);
+      ctx.lineTo(23, 23);
+      ctx.lineTo(shoulder, -27);
+      ctx.closePath();
+      ctx.fill();
+      ctx.stroke();
+      ctx.strokeStyle = "#ece9df";
+      ctx.lineWidth = 1.5;
+      ctx.beginPath();
+      ctx.moveTo(-shoulder + 3, -24);
+      ctx.lineTo(-18, 18);
+      ctx.moveTo(shoulder - 3, -24);
+      ctx.lineTo(18, 18);
+      ctx.stroke();
+    } else if (signature === "yota") {
+      ctx.fillStyle = "#781c25";
+      ctx.beginPath();
+      ctx.moveTo(-shoulder, -27);
+      ctx.lineTo(-22, 25);
+      ctx.lineTo(-4, 17);
+      ctx.lineTo(0, -3);
+      ctx.lineTo(4, 17);
+      ctx.lineTo(22, 25);
+      ctx.lineTo(shoulder, -27);
+      ctx.closePath();
+      ctx.fill();
+      ctx.stroke();
+      ctx.strokeStyle = "#c8a468";
+      ctx.beginPath();
+      ctx.moveTo(-shoulder + 2, -22);
+      ctx.lineTo(-16, 19);
+      ctx.moveTo(shoulder - 2, -22);
+      ctx.lineTo(16, 19);
+      ctx.stroke();
+    } else if (signature === "mistico") {
+      ctx.fillStyle = "#eeece5";
+      ctx.beginPath();
+      ctx.moveTo(-shoulder + 2, -24);
+      ctx.lineTo(-22, 18);
+      ctx.lineTo(0, 11);
+      ctx.lineTo(22, 18);
+      ctx.lineTo(shoulder - 2, -24);
+      ctx.closePath();
+      ctx.fill();
+      ctx.stroke();
+      ctx.strokeStyle = "#d7ac38";
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.moveTo(-18, 14);
+      ctx.lineTo(0, 8);
+      ctx.lineTo(18, 14);
+      ctx.stroke();
+    }
+    ctx.restore();
+  }
+
+  function drawSignatureGear(look, shoulder, waist, ink) {
+    const signature = look.signature;
+    if (!signature) return;
+    ctx.save();
+    ctx.lineJoin = "miter";
+    ctx.strokeStyle = ink;
+    ctx.lineWidth = 1;
+
+    if (signature === "omega") {
+      ctx.fillStyle = "#2fc1d0";
+      ctx.beginPath();
+      ctx.moveTo(-10, -21);
+      ctx.lineTo(0, -12);
+      ctx.lineTo(10, -21);
+      ctx.lineTo(7, -24);
+      ctx.lineTo(0, -18);
+      ctx.lineTo(-7, -24);
+      ctx.closePath();
+      ctx.fill();
+      ctx.fillStyle = "#6a42a0";
+      ctx.fillRect(-11, 4, 5, 18);
+      ctx.fillRect(6, 4, 5, 18);
+      ctx.fillStyle = "#31cad4";
+      ctx.fillRect(-13, 18, 8, 3);
+      ctx.fillRect(5, 18, 8, 3);
+    } else if (signature === "toni") {
+      ctx.strokeStyle = "#e6e2dc";
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.moveTo(-8, -25);
+      ctx.lineTo(-3, -8);
+      ctx.lineTo(-7, 4);
+      ctx.moveTo(8, -25);
+      ctx.lineTo(3, -8);
+      ctx.lineTo(7, 4);
+      ctx.stroke();
+      ctx.fillStyle = "#d7d4cf";
+      ctx.fillRect(-11, 3, 22, 3);
+      for (let i = -8; i <= 8; i += 4) ctx.fillRect(i, 6, 1, 5);
+    } else if (signature === "ospreay") {
+      ctx.fillStyle = "#dce7e3";
+      ctx.beginPath();
+      ctx.moveTo(-10, -22);
+      ctx.lineTo(0, -12);
+      ctx.lineTo(10, -22);
+      ctx.lineTo(8, -17);
+      ctx.lineTo(0, -8);
+      ctx.lineTo(-8, -17);
+      ctx.closePath();
+      ctx.fill();
+      ctx.fillStyle = "#168b6c";
+      ctx.fillRect(-11, 5, 5, 17);
+      ctx.fillRect(6, 5, 5, 17);
+    } else if (signature === "slk") {
+      ctx.fillStyle = "#111217";
+      ctx.beginPath();
+      ctx.moveTo(-12, -21);
+      ctx.lineTo(-3, -16);
+      ctx.lineTo(-8, -11);
+      ctx.closePath();
+      ctx.fill();
+      ctx.beginPath();
+      ctx.moveTo(12, -21);
+      ctx.lineTo(3, -16);
+      ctx.lineTo(8, -11);
+      ctx.closePath();
+      ctx.fill();
+      ctx.fillStyle = "#a81e3a";
+      ctx.fillRect(-13, 1, 26, 7);
+      ctx.strokeStyle = "#ddd7cc";
+      ctx.lineWidth = 1;
+      for (let x = -10; x <= 10; x += 5) {
+        ctx.beginPath();
+        ctx.moveTo(x, 1);
+        ctx.lineTo(x, 8);
+        ctx.stroke();
+      }
+      ctx.beginPath();
+      ctx.moveTo(-13, 4);
+      ctx.lineTo(13, 4);
+      ctx.stroke();
+    } else if (signature === "saya") {
+      ctx.strokeStyle = "#bb2d43";
+      ctx.lineWidth = 3;
+      ctx.beginPath();
+      ctx.moveTo(-10, -23);
+      ctx.lineTo(9, 1);
+      ctx.moveTo(10, -23);
+      ctx.lineTo(-8, -2);
+      ctx.stroke();
+      ctx.fillStyle = "#c6c9cf";
+      for (let i = -8; i <= 8; i += 4) ctx.fillRect(i, -9 + Math.abs(i) * 0.35, 2, 2);
+    } else if (signature === "maika") {
+      ctx.fillStyle = "#d4a343";
+      ctx.beginPath();
+      ctx.moveTo(-11, -23);
+      ctx.lineTo(0, -13);
+      ctx.lineTo(11, -23);
+      ctx.lineTo(7, -8);
+      ctx.lineTo(0, -3);
+      ctx.lineTo(-7, -8);
+      ctx.closePath();
+      ctx.fill();
+      ctx.fillStyle = "#f0dfbd";
+      ctx.fillRect(-10, 1, 20, 3);
+    } else if (signature === "mistico") {
+      ctx.fillStyle = "#d4aa38";
+      drawStarPath(0, -15, 8, 3.5, 8);
+      ctx.fill();
+      ctx.fillStyle = "#f4f0e6";
+      ctx.fillRect(-11, 4, 8, 18);
+      ctx.fillRect(3, 4, 8, 18);
+    } else if (signature === "dorada") {
+      ctx.fillStyle = "#55a6c8";
+      ctx.beginPath();
+      ctx.moveTo(-10, -22);
+      ctx.lineTo(0, -13);
+      ctx.lineTo(10, -22);
+      ctx.lineTo(8, -17);
+      ctx.lineTo(0, -8);
+      ctx.lineTo(-8, -17);
+      ctx.closePath();
+      ctx.fill();
+      ctx.fillRect(-11, 6, 5, 16);
+      ctx.fillRect(6, 6, 5, 16);
+    } else if (signature === "zeuxis") {
+      ctx.strokeStyle = "#d1a63c";
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.moveTo(-10, -22);
+      ctx.lineTo(0, -10);
+      ctx.lineTo(10, -22);
+      ctx.moveTo(-waist, 3);
+      ctx.lineTo(0, -2);
+      ctx.lineTo(waist, 3);
+      ctx.stroke();
+      ctx.fillStyle = "#d1a63c";
+      ctx.fillRect(-12, 18, 9, 4);
+      ctx.fillRect(3, 18, 9, 4);
+    } else if (signature === "yota") {
+      ctx.fillStyle = "#d0aa70";
+      ctx.beginPath();
+      ctx.moveTo(-10, -22);
+      ctx.lineTo(0, -13);
+      ctx.lineTo(10, -22);
+      ctx.lineTo(6, -8);
+      ctx.lineTo(-6, -8);
+      ctx.closePath();
+      ctx.fill();
+      ctx.fillStyle = "#9b2530";
+      ctx.fillRect(-12, 2, 24, 4);
+    } else if (signature === "zack") {
+      ctx.fillStyle = "#d29a36";
+      ctx.beginPath();
+      ctx.moveTo(-10, -20);
+      ctx.lineTo(0, -12);
+      ctx.lineTo(10, -20);
+      ctx.lineTo(7, -16);
+      ctx.lineTo(0, -8);
+      ctx.lineTo(-7, -16);
+      ctx.closePath();
+      ctx.fill();
+      ctx.fillRect(-12, 5, 6, 8);
+      ctx.fillRect(6, 5, 6, 8);
+    } else if (signature === "desperado") {
+      ctx.fillStyle = "#eee9df";
+      ctx.beginPath();
+      ctx.moveTo(-11, -20);
+      ctx.lineTo(-4, -14);
+      ctx.lineTo(-8, -8);
+      ctx.lineTo(-2, -2);
+      ctx.lineTo(-9, 2);
+      ctx.closePath();
+      ctx.fill();
+      ctx.beginPath();
+      ctx.moveTo(11, -20);
+      ctx.lineTo(4, -14);
+      ctx.lineTo(8, -8);
+      ctx.lineTo(2, -2);
+      ctx.lineTo(9, 2);
+      ctx.closePath();
+      ctx.fill();
+    }
+    ctx.restore();
+  }
+
+  function drawSignatureFace(look, skin, ink) {
+    const signature = look.signature;
+    if (!signature) return;
+    ctx.save();
+    ctx.lineJoin = "round";
+
+    if (signature === "omega") {
+      ctx.fillStyle = "#b28b64";
+      ctx.beginPath();
+      ctx.moveTo(-11, -29);
+      ctx.lineTo(-8, -19);
+      ctx.lineTo(-4, -24);
+      ctx.lineTo(-5, -31);
+      ctx.closePath();
+      ctx.fill();
+      ctx.beginPath();
+      ctx.moveTo(11, -29);
+      ctx.lineTo(8, -19);
+      ctx.lineTo(4, -24);
+      ctx.lineTo(5, -31);
+      ctx.closePath();
+      ctx.fill();
+      ctx.fillStyle = "#3c241f";
+      ctx.beginPath();
+      ctx.moveTo(-6, -30);
+      ctx.lineTo(0, -25);
+      ctx.lineTo(6, -30);
+      ctx.lineTo(4, -24);
+      ctx.lineTo(0, -21.5);
+      ctx.lineTo(-4, -24);
+      ctx.closePath();
+      ctx.fill();
+    } else if (signature === "toni") {
+      ctx.fillStyle = "#f0dfad";
+      for (const [x, y, r] of [[-11, -40, 4], [10, -40, 4], [-12, -33, 4], [11, -32, 4]]) {
+        ctx.beginPath();
+        ctx.arc(x, y, r, 0, Math.PI * 2);
+        ctx.fill();
+      }
+      ctx.strokeStyle = "#8a2630";
+      ctx.lineWidth = 1.5;
+      ctx.beginPath();
+      ctx.moveTo(-3, -28);
+      ctx.lineTo(0, -27);
+      ctx.lineTo(3, -28);
+      ctx.stroke();
+    } else if (signature === "ospreay") {
+      ctx.fillStyle = "#b99163";
+      for (const [x, y] of [[-7,-43],[-2,-45],[3,-44],[7,-41]]) {
+        ctx.beginPath();
+        ctx.arc(x, y, 3.5, 0, Math.PI * 2);
+        ctx.fill();
+      }
+      ctx.fillStyle = "#6c4c34";
+      ctx.beginPath();
+      ctx.moveTo(-5, -30);
+      ctx.lineTo(0, -25);
+      ctx.lineTo(5, -30);
+      ctx.lineTo(3, -24);
+      ctx.lineTo(-3, -24);
+      ctx.closePath();
+      ctx.fill();
+    } else if (signature === "slk") {
+      ctx.fillStyle = "#17171c";
+      ctx.beginPath();
+      ctx.moveTo(-9, -42);
+      ctx.lineTo(-5, -50);
+      ctx.lineTo(-1, -42);
+      ctx.closePath();
+      ctx.fill();
+      ctx.beginPath();
+      ctx.moveTo(9, -42);
+      ctx.lineTo(5, -50);
+      ctx.lineTo(1, -42);
+      ctx.closePath();
+      ctx.fill();
+      ctx.strokeStyle = "#e7dbca";
+      ctx.lineWidth = 1.4;
+      ctx.beginPath();
+      ctx.moveTo(-8, -39);
+      ctx.lineTo(-2, -35);
+      ctx.moveTo(8, -39);
+      ctx.lineTo(2, -35);
+      ctx.moveTo(-4, -29);
+      ctx.lineTo(0, -25);
+      ctx.lineTo(4, -29);
+      ctx.stroke();
+      ctx.fillStyle = "#a51f3c";
+      ctx.beginPath();
+      ctx.moveTo(-10, -37);
+      ctx.lineTo(-18, -33);
+      ctx.lineTo(-15, -25);
+      ctx.lineTo(-9, -29);
+      ctx.closePath();
+      ctx.fill();
+      ctx.beginPath();
+      ctx.moveTo(10, -37);
+      ctx.lineTo(18, -33);
+      ctx.lineTo(15, -25);
+      ctx.lineTo(9, -29);
+      ctx.closePath();
+      ctx.fill();
+    } else if (signature === "saya") {
+      ctx.strokeStyle = "#a7263b";
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.moveTo(8, -41);
+      ctx.lineTo(11, -24);
+      ctx.stroke();
+      ctx.strokeStyle = ink;
+      ctx.lineWidth = 1.5;
+      ctx.beginPath();
+      ctx.moveTo(-6, -35);
+      ctx.lineTo(-1, -34);
+      ctx.moveTo(6, -35);
+      ctx.lineTo(1, -34);
+      ctx.stroke();
+    } else if (signature === "maika") {
+      ctx.fillStyle = "#a14b36";
+      ctx.beginPath();
+      ctx.moveTo(-10, -42);
+      ctx.lineTo(-14, -29);
+      ctx.lineTo(-8, -24);
+      ctx.lineTo(-6, -39);
+      ctx.closePath();
+      ctx.fill();
+      ctx.strokeStyle = "#50251f";
+      ctx.lineWidth = 1.5;
+      ctx.beginPath();
+      ctx.moveTo(-6, -35);
+      ctx.lineTo(-1, -34);
+      ctx.moveTo(6, -35);
+      ctx.lineTo(1, -34);
+      ctx.stroke();
+    } else if (signature === "mistico") {
+      ctx.fillStyle = "#d9ad38";
+      drawStarPath(0, -36, 12, 8, 8);
+      ctx.fill();
+      ctx.fillStyle = "#f0eee8";
+      ctx.beginPath();
+      ctx.moveTo(-7, -38);
+      ctx.lineTo(-1, -36);
+      ctx.lineTo(-2, -32);
+      ctx.lineTo(-7, -33);
+      ctx.closePath();
+      ctx.fill();
+      ctx.beginPath();
+      ctx.moveTo(7, -38);
+      ctx.lineTo(1, -36);
+      ctx.lineTo(2, -32);
+      ctx.lineTo(7, -33);
+      ctx.closePath();
+      ctx.fill();
+    } else if (signature === "dorada") {
+      ctx.strokeStyle = "#f1eee6";
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.moveTo(-8, -39);
+      ctx.lineTo(-2, -35);
+      ctx.lineTo(-7, -31);
+      ctx.moveTo(8, -39);
+      ctx.lineTo(2, -35);
+      ctx.lineTo(7, -31);
+      ctx.moveTo(0, -42);
+      ctx.lineTo(0, -25);
+      ctx.stroke();
+      ctx.strokeStyle = "#55a6c8";
+      ctx.beginPath();
+      ctx.moveTo(-9, -28);
+      ctx.lineTo(0, -24);
+      ctx.lineTo(9, -28);
+      ctx.stroke();
+    } else if (signature === "zeuxis") {
+      ctx.strokeStyle = "#d1a63c";
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.moveTo(-8, -40);
+      ctx.lineTo(0, -44);
+      ctx.lineTo(8, -40);
+      ctx.moveTo(-8, -34);
+      ctx.lineTo(-2, -31);
+      ctx.moveTo(8, -34);
+      ctx.lineTo(2, -31);
+      ctx.moveTo(-5, -27);
+      ctx.lineTo(0, -24);
+      ctx.lineTo(5, -27);
+      ctx.stroke();
+      ctx.fillStyle = "#161419";
+      ctx.beginPath();
+      ctx.moveTo(-9, -40);
+      ctx.lineTo(-18, -34);
+      ctx.lineTo(-14, -24);
+      ctx.lineTo(-9, -29);
+      ctx.closePath();
+      ctx.fill();
+      ctx.beginPath();
+      ctx.moveTo(9, -40);
+      ctx.lineTo(18, -34);
+      ctx.lineTo(14, -24);
+      ctx.lineTo(9, -29);
+      ctx.closePath();
+      ctx.fill();
+    } else if (signature === "yota") {
+      ctx.fillStyle = "#111217";
+      ctx.beginPath();
+      ctx.moveTo(-10, -42);
+      ctx.lineTo(-13, -22);
+      ctx.lineTo(-7, -26);
+      ctx.lineTo(-5, -40);
+      ctx.closePath();
+      ctx.fill();
+      ctx.beginPath();
+      ctx.moveTo(10, -42);
+      ctx.lineTo(13, -22);
+      ctx.lineTo(7, -26);
+      ctx.lineTo(5, -40);
+      ctx.closePath();
+      ctx.fill();
+      ctx.fillStyle = "#31201b";
+      ctx.beginPath();
+      ctx.moveTo(-6, -30);
+      ctx.lineTo(0, -24);
+      ctx.lineTo(6, -30);
+      ctx.lineTo(4, -23);
+      ctx.lineTo(-4, -23);
+      ctx.closePath();
+      ctx.fill();
+      ctx.strokeStyle = "#f3eee5";
+      ctx.lineWidth = 1;
+      ctx.beginPath();
+      ctx.moveTo(-3, -28);
+      ctx.lineTo(0, -27);
+      ctx.lineTo(3, -28);
+      ctx.stroke();
+    } else if (signature === "zack") {
+      ctx.strokeStyle = "#5d3e29";
+      ctx.lineWidth = 1.5;
+      ctx.beginPath();
+      ctx.moveTo(-6, -36);
+      ctx.lineTo(-1, -34);
+      ctx.moveTo(6, -36);
+      ctx.lineTo(1, -34);
+      ctx.stroke();
+    } else if (signature === "desperado") {
+      ctx.fillStyle = "#15151a";
+      ctx.beginPath();
+      ctx.moveTo(-9, -42);
+      ctx.lineTo(-5, -50);
+      ctx.lineTo(-1, -42);
+      ctx.closePath();
+      ctx.fill();
+      ctx.beginPath();
+      ctx.moveTo(9, -42);
+      ctx.lineTo(5, -50);
+      ctx.lineTo(1, -42);
+      ctx.closePath();
+      ctx.fill();
+      ctx.strokeStyle = "#f0ebe3";
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.moveTo(-8, -40);
+      ctx.lineTo(-2, -35);
+      ctx.lineTo(-7, -30);
+      ctx.moveTo(8, -40);
+      ctx.lineTo(2, -35);
+      ctx.lineTo(7, -30);
+      ctx.moveTo(-5, -26);
+      ctx.lineTo(0, -23);
+      ctx.lineTo(5, -26);
+      ctx.stroke();
+    }
+    ctx.restore();
+  }
+
   function drawPerson(person, scale = 1, still = false) {
     const { look } = person;
     const bob = still ? 0 : Math.sin(state.elapsed * 2.4 + person.phase) * 1.1;
     const build = look.build || "athletic";
-    const shoulder = build === "power" ? 18 : build === "striker" ? 14.5 : 16;
-    const waist = build === "power" ? 11.5 : 9.5;
+    const femaleFrame = look.frame === "female";
+    const shoulderBase = build === "power" ? 18 : build === "striker" ? 14.5 : 16;
+    const shoulder = femaleFrame ? shoulderBase - 1.8 : shoulderBase;
+    const waist = femaleFrame ? 8.5 : build === "power" ? 11.5 : 9.5;
     const skin = skinTones[look.skin];
     const ink = "#090b0f";
     ctx.save();
@@ -590,7 +1131,9 @@
     ctx.fill();
     ctx.globalAlpha = 1;
 
-    if (look.accessory === "cape") {
+    drawSignatureBack(look, shoulder, ink);
+
+    if (look.accessory === "cape" && !["toni", "yota", "mistico"].includes(look.signature)) {
       ctx.fillStyle = look.accent;
       ctx.strokeStyle = ink;
       ctx.lineWidth = 2;
@@ -713,6 +1256,8 @@
     ctx.lineTo(-8, -5);
     ctx.closePath();
     ctx.fill();
+
+    drawSignatureGear(look, shoulder, waist, ink);
 
     ctx.fillStyle = skin;
     ctx.beginPath();
@@ -877,6 +1422,8 @@
       ctx.fillRect(14, -5, 8, 6);
     }
 
+    drawSignatureFace(look, skin, ink);
+
     ctx.strokeStyle = "rgba(255,255,255,.13)";
     ctx.lineWidth = 1;
     ctx.beginPath();
@@ -900,7 +1447,7 @@
     ctx.translate(45, 72);
     drawPerson({ x: 0, y: 0, look: stage.target[state.round].look, phase: 0 }, 0.9, true);
     ctx.restore();
-    fillText(`TARGET FILE // 0${state.round + 1}`, 79, 27, 9, stage.colors[0], "left", 900);
+    fillText(`WRESTLER FILE // 0${state.round + 1}`, 79, 27, 9, stage.colors[0], "left", 900);
     fillText(stage.target[state.round].name, 79, 50, 16, "#fff", "left", 900);
     fillText(stage.target[state.round].clue, 79, 76, 11, "#aeb4bf", "left", 650);
 
