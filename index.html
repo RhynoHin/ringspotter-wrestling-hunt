@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-HK">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no" />
+    <meta name="theme-color" content="#0a0a0f" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="RINGSPOTTER" />
+    <meta name="description" content="一隻為手機而設、走遍四大摔角舞台的原創隱藏角色遊戲。" />
+    <title>RINGSPOTTER｜摔角捉迷藏</title>
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="./icon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="./icon-180.png" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="game-shell">
+      <canvas id="game" width="780" height="1440" aria-label="RINGSPOTTER 摔角捉迷藏遊戲畫面" tabindex="0">
+        你的瀏覽器需要支援 Canvas 才能玩 RINGSPOTTER。
+      </canvas>
+      <p id="game-status" class="sr-only" aria-live="polite">準備開始遊戲</p>
+    </main>
+    <noscript>請開啟 JavaScript 才能玩這個遊戲。</noscript>
+    <script src="./app.js" defer></script>
+  </body>
+</html>

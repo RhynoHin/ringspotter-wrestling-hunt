@@ -1,0 +1,17 @@
+{
+  "name": "RINGSPOTTER｜摔角捉迷藏",
+  "short_name": "RINGSPOTTER",
+  "description": "走遍四大摔角舞台的原創隱藏角色遊戲。",
+  "lang": "zh-HK",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050509",
+  "theme_color": "#0a0a0f",
+  "icons": [
+    { "src": "./icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
